@@ -25,7 +25,7 @@ public:
 	long getValue();
 	long averageValue(byte times = 25);
 	void setOffset(long offset);
-	void setScale(float scale = 1992.f);
+	void setScale(float scale = -199.2f);
 	float getGram();
 
 private:
